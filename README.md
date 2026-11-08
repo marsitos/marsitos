@@ -30,7 +30,7 @@ I enjoy working on backend development, web applications, databases, and softwar
 ### Frameworks & Libraries
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,angular,bootstrap,leaflet" />
+  <img src="https://skillicons.dev/icons?i=spring,angular,bootstrap" />
 </p>
 
 ### Databases
@@ -51,7 +51,7 @@ I enjoy working on backend development, web applications, databases, and softwar
 
 ### 🚍 Metrovía Guayaquil — Route Management System
 
-A web application proposal focused on improving public transportation route management in Guayaquil, Ecuador.
+A web application proposal focused on improving public transportation route management in Guayaquil, Ecuador (University Project).
 
 **Highlights:**
 - Real-time visualization of vehicle locations.
@@ -65,48 +65,6 @@ A web application proposal focused on improving public transportation route mana
 
 ---
 
-### 🦸 TaskHero — Gamified Task Management System
-
-A task management application designed to improve productivity through gamification.
-
-**Highlights:**
-- Task creation and management.
-- Experience points (XP) and level progression.
-- Gamification features and achievement-based progression.
-- Software architecture based on SOLID principles and Hexagonal Architecture.
-
-**Technologies:** Java, Spring Boot, MySQL.
-
----
-
-### 💆 Spa & Belleza — Management Web Application
-
-A web application developed to manage products and customer purchases for a beauty and spa business.
-
-**Highlights:**
-- Product administration and category management.
-- Customer product catalog.
-- Product search and filtering.
-- Shopping cart and purchase management.
-- PHP MVC architecture.
-
-**Technologies:** PHP, MySQL, JavaScript, HTML, CSS.
-
----
-
-### 📊 Business Intelligence — Sales & Demand Analysis
-
-A Business Intelligence project proposal focused on analyzing sales and predicting product demand for Corporación Favorita in Ecuador.
-
-**Highlights:**
-- Sales analysis by product, store, and period.
-- Identification of high-demand products.
-- Inventory management insights.
-- Dashboard and KPI proposal for business decision-making.
-
-**Technologies:** Business Intelligence, Data Analytics, Dashboards, Data Visualization.
-
----
 
 ## 🎨 Creative & Personal Projects
 
